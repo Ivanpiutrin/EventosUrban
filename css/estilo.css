@@ -1,0 +1,49 @@
+.Fondo{
+        background-image: url(../img/foto.jpg);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-attachment: fixed;
+    
+    
+
+}
+
+#Noticias{
+    background-color: rgb(200, 31, 98);
+    color: white;
+    width: 10%;
+    margin: auto;
+}
+
+
+#Servicios{
+    background-color: rgb(200, 31, 98);
+    color: aliceblue;
+    width: 10%;
+    margin:10px auto;
+}
+.vidio{
+    width: 50%;
+    margin:100px auto;
+    margin-bottom: 30px;
+}
+
+#registro{
+    background-color: rgb(200, 31, 98);
+    margin: 10px auto;
+    padding: 30px;
+    width: 500px;
+    color: antiquewhite;
+}
+
+.card-body{
+    color: rgb(241, 247, 251);
+    background-color: #CF3C6F;
+}
+.redes{
+  
+  color: aliceblue; 
+}
+
+
